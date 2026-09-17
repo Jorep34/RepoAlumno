@@ -3,7 +3,7 @@ name: 🚀 Tarea de Despliegue
 on:
    push:
      branches:
-       - hector
+       - hectorbranch
 
 jobs:
   deploy:
